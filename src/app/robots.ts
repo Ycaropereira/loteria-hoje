@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://loteria-hoje.vercel.app/sitemap.xml",
+    sitemap: "https://loteria-hoje-ten.vercel.app/sitemap.xml",
   };
 }

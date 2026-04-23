@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://loteria-hoje.vercel.app"),
+  metadataBase: new URL("https://loteria-hoje-ten.vercel.app"),
   title: "Resultado da Loteria Hoje - Mega-Sena, Quina e Lotofácil",
   description:
     "Confira o resultado da loteria hoje: Mega-Sena, Quina e Lotofácil. Veja dezenas sorteadas, data do concurso e se acumulou.",
